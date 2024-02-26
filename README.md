@@ -8,7 +8,7 @@ This Tampermonkey userscript simplifies the process of downloading files from va
 - Bypasses unwanted pop-up ads.
 - Simplifies the download process with fewer clicks.
 - Compatible with various file hosting websites, including DropGalaxy, MMSBEE, File-Upload.org, Yoykp, Gettapeads, Babup, and Streamtape.
-
+  [Click here to install Auto Download.js](https://raw.githubusercontent.com/Anayaali2019/AutoDownloader/0c98b4f59433d1663612d5e7db1c52f819a8fc93/Auto%20Download.js)
 ## Installation
 1. Make sure you have the Tampermonkey extension installed in your browser.
 2. Click on the Tampermonkey icon and choose "Create a new script."
