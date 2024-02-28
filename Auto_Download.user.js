@@ -15,7 +15,7 @@
 // @match        https://gettapeads.com/*
 // @match        https://www.babup.com/*
 // @match        https://dropgalaxy.co/*
-// @match        https://streamtape.com/*
+// @match        https://streamtape.*/*
 // @match        https://api.streamtape.com/*
 // @icon         https://www.google.com/s2/favicons?domain=dropgalaxy.com
 // @match        *://*/recaptcha/*
