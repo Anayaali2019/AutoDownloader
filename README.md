@@ -1,5 +1,5 @@
 #  Auto Downloader
-DOWNLOAD FROM dropgalaxy , www.file-upload.org , yoykp.com, gettapeads.com , babup.com , streamtape.com 
+DOWNLOAD FROM dropgalaxy ,vidoza, www.file-upload.org , yoykp.com, gettapeads.com , babup.com , streamtape.com 
 ## Description
 This Tampermonkey userscript simplifies the process of downloading files from various websites, including DropGalaxy, MMSBEE, and others. It automates the resolution of Google reCAPTCHA challenges and helps users avoid unwanted pop-up ads, streamlining the download experience. With minimal user interaction, users can download files with fewer clicks.
 
@@ -16,7 +16,7 @@ This Tampermonkey userscript simplifies the process of downloading files from va
 4. Save the script by pressing `Ctrl + S` or clicking on the floppy disk icon.
 
 ## Usage
-1. Visit one of the supported websites (e.g., DropGalaxy, MMSBEE).
+1. Visit one of the supported websites (e.g., DropGalaxy).
 2. Navigate to the desired file download page.
 3. The script will automatically handle Google reCAPTCHA challenges and any unwanted pop-up ads.
 4. Once the download link is ready, click on it to initiate the download process.
