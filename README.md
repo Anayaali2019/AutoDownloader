@@ -7,7 +7,7 @@ This Tampermonkey userscript simplifies the process of downloading files from va
 - Auto-solves Google reCAPTCHA challenges.
 - Bypasses unwanted pop-up ads.
 - Simplifies the download process with fewer clicks.
-- Compatible with various file hosting websites, including DropGalaxy, MMSBEE, File-Upload.org, Yoykp, Gettapeads, Babup, and Streamtape.
+- Compatible with various file hosting websites, including DropGalaxy, File-Upload.org, Yoykp, Gettapeads, Babup, and Streamtape.
   [Click here to install Auto Download.js in ](https://github.com/Anayaali2019/AutoDownloader/raw/main/Auto_Download.user.js)
 ## Installation
 1. Make sure you have the Tampermonkey extension installed in your browser.
